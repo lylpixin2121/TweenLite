@@ -1,5 +1,7 @@
 # TweenLite
 
+工作中最近遇到过 但是苦于找不到中文版 想到以后也会用到 索性翻译一遍 留作以后他用
+
 ## 简介
 TweenLite是一个相当快速、轻量级且小巧的动画库工具，作为GreenSock Animation Platform（GSAP）的一个基础存在。TweenLite实例可以处理任意对象在一段时间内一个或多个属性的缓动。
 TweenLite能够依靠极小的文件大小，单独完成绝大多数的动画工作；或者可以和高级序列工具（如：**TimelineLite**、**TimelineMax**）一起使用更简单的去创建复杂任务，与其他类的动画框架相比，为什么考虑GSAP？：
